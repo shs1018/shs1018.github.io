@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+제 자신을 표현한다는건 어려운 일이죠.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+안녕하세요. 막연히 개발자를 꿈꾸는 petrol_bloo입니다.
+지금은 다들 이름 들으시면 알 만한 대학에서(아닐 수도 있구요...)경영학을 공부하고 있습니다.
+경영학과가 무슨 개발이냐, 하실 수 있겠지만, 지금은 금융권 IT개발자를 꿈 꾸고 있습니다.
+아직 배울게 너무나도 많습니다. 
+그에 비해 제 의지는 너무나도 나약하구요.
+그래도 이 블로그를 계속 유지하는게, 뭔가 적어 나가면서 흔적을 남긴다는게,
+조금이라도 저와, 우연찮게 이 곳에 오신 여러분께 도움이 되기를 바랍니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[1018gustj@naver.com](mailto:1018gustj@naver.com)
